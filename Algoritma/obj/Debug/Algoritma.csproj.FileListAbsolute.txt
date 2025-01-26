@@ -1,0 +1,14 @@
+C:\Users\Casper\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.exe.config
+C:\Users\Casper\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.exe
+C:\Users\Casper\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.pdb
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Form1.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Properties.Resources.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.exe
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.pdb
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Algoritma_2_sayını_toplamı.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Algoritma_2_sayının__karelerinin_toplamı.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma._1_den_100_kadar_olan_sayıların_küplerinin_toplamı.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Dogum_tarihi_giren_kişinin_yaş_hesaplaması.resources
