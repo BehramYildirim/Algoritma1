@@ -16,7 +16,7 @@ namespace Algoritma
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Dogum_tarihi_giren_kişinin_yaş_hesaplaması());
+            Application.Run(new Girilen_3_basamaklı_sayının_basmaklarının_küpleri_toplamı_kendisine_esit_olup_olmadıgını_bulma());
         }
     }
 }

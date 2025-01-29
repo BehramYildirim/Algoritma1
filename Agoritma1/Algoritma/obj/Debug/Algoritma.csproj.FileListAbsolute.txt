@@ -12,3 +12,10 @@ C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Algoritma_2_say�
 C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Algoritma_2_sayının__karelerinin_toplamı.resources
 C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma._1_den_100_kadar_olan_sayıların_küplerinin_toplamı.resources
 C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Dogum_tarihi_giren_kişinin_yaş_hesaplaması.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Girilen_sayının_faktöriyelini_bulma.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.carpma_islemini_toplama_islemi_kullanrak_yapma.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Bölme_islemini_cıkartma__islemi_kullanarak_yapma.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Girilen_sayının_istenilen_sayıya_göre_mod_işlemi.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Girilen_sayının_kaç_basamaklı_olduğunu_söyleyen_program.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Girilen_3_basamaklı_sayının_basmaklarının_küpleri_toplamı_kendisine_esit_olup_olmadıgını_bulma.resources
+C:\Users\Casper\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.Girilen_Sayının_Üssünü_bulma.resources

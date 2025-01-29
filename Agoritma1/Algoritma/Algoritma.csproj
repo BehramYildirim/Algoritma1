@@ -64,6 +64,18 @@
     <Compile Include="Algoritma 2 sayının  karelerinin toplamı.Designer.cs">
       <DependentUpon>Algoritma 2 sayının  karelerinin toplamı.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bölme islemini cıkartma  islemi kullanarak yapma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bölme islemini cıkartma  islemi kullanarak yapma.Designer.cs">
+      <DependentUpon>Bölme islemini cıkartma  islemi kullanarak yapma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="carpma islemini toplama islemi kullanrak yapma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="carpma islemini toplama islemi kullanrak yapma.Designer.cs">
+      <DependentUpon>carpma islemini toplama islemi kullanrak yapma.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dogum tarihi giren kişinin yaş hesaplaması.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +88,36 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Girilen 3 basamaklı sayının basmaklarının küpleri toplamı kendisine esit olup olmadıgını bulma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girilen 3 basamaklı sayının basmaklarının küpleri toplamı kendisine esit olup olmadıgını bulma.Designer.cs">
+      <DependentUpon>Girilen 3 basamaklı sayının basmaklarının küpleri toplamı kendisine esit olup olmadıgını bulma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Girilen sayının faktöriyelini bulma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girilen sayının faktöriyelini bulma.Designer.cs">
+      <DependentUpon>Girilen sayının faktöriyelini bulma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Girilen sayının istenilen sayıya göre mod işlemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girilen sayının istenilen sayıya göre mod işlemi.Designer.cs">
+      <DependentUpon>Girilen sayının istenilen sayıya göre mod işlemi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Girilen sayının kaç basamaklı olduğunu söyleyen program.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girilen sayının kaç basamaklı olduğunu söyleyen program.Designer.cs">
+      <DependentUpon>Girilen sayının kaç basamaklı olduğunu söyleyen program.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Girilen Sayının Üssünü bulma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girilen Sayının Üssünü bulma.Designer.cs">
+      <DependentUpon>Girilen Sayının Üssünü bulma.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="1 den 100 kadar olan sayıların küplerinin toplamı.resx">
@@ -87,11 +129,32 @@
     <EmbeddedResource Include="Algoritma 2 sayının  karelerinin toplamı.resx">
       <DependentUpon>Algoritma 2 sayının  karelerinin toplamı.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Bölme islemini cıkartma  islemi kullanarak yapma.resx">
+      <DependentUpon>Bölme islemini cıkartma  islemi kullanarak yapma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="carpma islemini toplama islemi kullanrak yapma.resx">
+      <DependentUpon>carpma islemini toplama islemi kullanrak yapma.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dogum tarihi giren kişinin yaş hesaplaması.resx">
       <DependentUpon>Dogum tarihi giren kişinin yaş hesaplaması.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girilen 3 basamaklı sayının basmaklarının küpleri toplamı kendisine esit olup olmadıgını bulma.resx">
+      <DependentUpon>Girilen 3 basamaklı sayının basmaklarının küpleri toplamı kendisine esit olup olmadıgını bulma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girilen sayının faktöriyelini bulma.resx">
+      <DependentUpon>Girilen sayının faktöriyelini bulma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girilen sayının istenilen sayıya göre mod işlemi.resx">
+      <DependentUpon>Girilen sayının istenilen sayıya göre mod işlemi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girilen sayının kaç basamaklı olduğunu söyleyen program.resx">
+      <DependentUpon>Girilen sayının kaç basamaklı olduğunu söyleyen program.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girilen Sayının Üssünü bulma.resx">
+      <DependentUpon>Girilen Sayının Üssünü bulma.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
